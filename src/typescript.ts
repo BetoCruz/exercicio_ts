@@ -7,6 +7,5 @@ console.log(multiplos(2,30))
 function saudacao(nome: string) {
     return `Olá ${nome}`;
 }
-
 console.log(saudacao("João"));
 
